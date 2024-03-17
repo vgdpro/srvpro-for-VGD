@@ -1,4 +1,4 @@
-## SRVPro
+## SRVPro for vgd
 一个魔改srvpro后的vgd服务器。
 
 
